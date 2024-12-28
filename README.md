@@ -63,45 +63,63 @@ Although this does not apply, for the most part, to the Software Subteam, these 
 Safety should allow for any leave of absence or refusal of work.
 
 UCalgary Baja reserves the right to remove any team member from the team if they are not compliant with the Code of Conduct. All issues will be dealt with on a case-by-case basis. We are investing in you and are here to work with you to make you and UCalgary Baja successful. 
-
-1. Safety is a core value. We care about keeping you safe! Continual negligence and disregard for safety will result in removal from the team. Safety is regarding:
-    - Shop Safety 
-        - Safety glasses are mandatory in the garage and hot works space
-        - Close-toed shoes, long cotton pants and cotton long sleeves/shop smocks must be worn in the hot works area
-        - Additional signage will be adhered to
-        - A positive attitude is expected when reminded of the shop rules.
-    - Tool Safety - Abide by Team Policies and the SOP. Team Policies often have further precautions than the SOPs
-    - Housekeeping - All members are expected to assist in keeping workspaces tidy and egress paths clear.
-    - Driving - The rules of the road will be followed (i.e. speed limits shall not be exceeded when driving on behalf of UCalgary Baja, including rentals)
-    - Alcohol and Drug Use
-        - No member shall enter the garage or hot works space under the influence of drugs or alcohol
-        - A 0.00 BAC is expected when handling tools or operating the vehicle
-1. Commitment and Involvement 
-    - Treated the same as involvement in 1 to 2 engineering courses per semester
-    - Members are responsible for managing their time to ensure coursework and UCalgary Baja work are both completed
-    - You acknowledge that you are committed to this team and you understand that sacrifices will need to be made to to be a fully contributing member. Remember, You get out what you put in!
-    - It is expected that you will give assigned projects your best effort
-    - You will meet project deliverable deadlines
-    - You will be called upon by the team if and when you are needed regarding your project and others’ projects
-    - You will help your teammates achieve their goals
-1. Conduct
-    - You will exercise due diligence in all of your dealings on the team, be it in ensuring your designs, performing shop work, and respecting external relations with sponsors, vendors, and university administration
-    - You are an ambassador for the UCalgary Baja, the Schulich School of Engineering and the University of Calgary and will act accordingly
-1. Attendance
-    - Used to determine eligibility for competition. 
-    - You will inform your Team Lead if you are unable to attend and a reason why. Team Leads are responsible for informing the Team Captain on who is unable to make meetings
-    - Consistent lack of attendance may result in removal from the team
-    - Leave of Absence is always excused when safety is involved this will not count against your eligibility 
-        - Abuse of this policy will be considered and will count against your eligibility for competition
-    - All attendance issues will be dealt with on a case-by-case basis
-
+<ol>
+    <li>Safety is a core value. We care about keeping you safe! Continual negligence and disregard for safety will result in removal from the team. Safety is regarding:
+    <ul>
+        <li>Shop Safety
+            <ul>
+                <li>Safety glasses are mandatory in the garage and hot works space</li>
+                <li>Close-toed shoes, long cotton pants and cotton long sleeves/shop smocks must be worn in the hot works area</li>
+                <li>Additional signage will be adhered to</li>
+                <li>A positive attitude is expected when reminded of the shop rules.
+            </ul>
+        <li>Tool Safety - Abide by Team Policies and the SOP. Team Policies often have further precautions than the SOPs</li>
+        <li>Housekeeping - All members are expected to assist in keeping workspaces tidy and egress paths clear.</li>
+        <li>Driving - The rules of the road will be followed (i.e. speed limits shall not be exceeded when driving on behalf of UCalgary Baja, including rentals)</li>
+        <li>Alcohol and Drug Use
+            <ul>
+            <li>No member shall enter the garage or hot works space under the influence of drugs or alcohol</li>
+            <li>A 0.00 BAC is expected when handling tools or operating the vehicle</li>
+            </ul>
+        </li>
+    </ul>
+    <li> Commitment and Involvement
+        <ul>
+            <li>Treated the same as involvement in 1 to 2 engineering courses per semester</li>
+            <li>Members are responsible for managing their time to ensure coursework and UCalgary Baja work are both completed</li>
+            <li>You acknowledge that you are committed to this team and you understand that sacrifices will need to be made to to be a fully contributing member. Remember, You get out what you put in!</li>
+            <li>It is expected that you will give assigned projects your best effort</li>
+            <li>You will meet project deliverable deadlines</li>
+            <li>You will be called upon by the team if and when you are needed regarding your project and others’ projects</li>
+            <li>You will help your teammates achieve their goals</li>
+        </ul>
+    </li>
+    <li>Conduct
+        <ul>
+            <li>You will exercise due diligence in all of your dealings on the team, be it in ensuring your designs, performing shop work, and respecting external relations with sponsors, vendors, and university administration.</li>
+            <li>You are an ambassador for the UCalgary Baja, the Schulich School of Engineering and the University of Calgary and will act accordingly</li>
+        </ul>
+    </li>
+    <li>Attendance
+        <ul>
+            <li>Used to determine eligibility for competition.</li> 
+            <li>You will inform your Team Lead if you are unable to attend and a reason why. Team Leads are responsible for informing the Team Captain on who is unable to make meetings</li>
+            <li>Consistent lack of attendance may result in removal from the team</li>
+            <li>Leave of Absence is always excused when safety is involved this will not count against your eligibility
+                <ul>
+                    <li>Abuse of this policy will be considered and will count against your eligibility for competition.</li>
+                </ul>
+            </li>
+            <li>All attendance issues will be dealt with on a case-by-case basis</li>
+    </li>
+</ol>
 These rules can be superseded by the university rules or the club code of conduct.
 These rules can also be superseded by governing bodies such as the government of any jurisdiction that work that software is applicable or is conducted in
 
 Other bodies that could possibly have a say are IEEE (I triple E), the worker's Board of Alberta, Health and Safety Boards, etc.
 
 ### How do I report
-If you wish to report a violation of any of these rules please talk to any of the leads that you feel most comfortable with or the Captain.
+If you wish to report a violation of any of these rules please talk to any of the lead(s) that you feel most comfortable with or the Captain.
 
 This will be investigated promptly and action will be taken depending on the severity.
 
@@ -117,7 +135,7 @@ It is important to note that issues and concerns in performance addressed by UCa
 
 We do not have a mandate, the only mandate is trying to fill a full hotel room if gender matters/applicable.
 
-Ie Fill a women's hotel room, ***AVOID*** no half or quarter full rooms if possible.
+ex. Fill a women's hotel room, ***PLEASE AVOID*** this situation, the worst is a half or quarter, please aim for as many full rooms if possible.
  
 
 
