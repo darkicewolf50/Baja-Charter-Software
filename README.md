@@ -13,19 +13,19 @@ UCalgary Baja is a team comprised of students who want to expand and apply their
 
 UCalgary Baja believes in the mantra You get out what you put in. We’re excited to have you and your unique individual skills and experience contributing to the mission of creating the best car possible. The lessons you will learn and the accomplishments you will make are up to you, and UCalgary Baja will gladly work alongside you to push you to your limits and beyond.
 
-### How does Software Fit in?
+## How does Software Fit in?
 
-#### Purpose
+### Purpose
 
-##### What is Software at Baja
+#### What is Software at Baja
 Software in Baja currently means the support team of the club through the development of software applications. This could be done by the use of our cloud to make running/operating the club cheaper, why pay for something when it can remade for free. Such projects include the BajaCloud which in itself contains the interview booking backend and the reimbursement backend. This does not mean the software can transform into a simulation, embedded programming team, data collection/transformation or cloud team. The options are up to what the lead decides/imagines best.
 
-#### The Future of Software
+### The Future of Software
 The Future of Software is in lidar track data collection and inputting into BEAMNG.drive and create a simulation of the car every year with current tracks, I hope that the team uploads the car cad/model and track to Steam and releases it for free.
 
 The future could also be in embedded/testing systems on the physical car, as of right now I would suggest rust as a primary language due to its speed, safety and high-level features such as a formatter, inferring and package manager (crates).
 
-#### Core Beliefs of Software
+### Core Beliefs of Software
 Repeated again for Highlighting
 ```
 You get out what you put in.
@@ -37,7 +37,7 @@ Communication both written and oral is based on signals or promises with the rec
 ```
 This also applies to coding, particularly in HTTP requests.
 
-#### Who to Recruit especially in Software
+### Who to Recruit especially in Software
 This is directly taken from the 2018 Baja Charter and repeated again to highlight its importance.
 
 ```
@@ -118,12 +118,12 @@ These rules can also be superseded by governing bodies such as the government of
 
 Other bodies that could possibly have a say are IEEE (I triple E), the worker's Board of Alberta, Health and Safety Boards, etc.
 
-### How do I report
+## How do I report
 If you wish to report a violation of any of these rules please talk to any of the lead(s) that you feel most comfortable with or the Captain.
 
 This will be investigated promptly and action will be taken depending on the severity.
 
-### Consequences / Infractions
+## Consequences / Infractions
 
 1. Continuing underperformance and/or not meeting deliverables or commitments will lower your standing/ranking in attending competition
 2. If there is still continued underperformance, UCalgary Baja may enact removal from the team
@@ -139,7 +139,7 @@ ex. Fill a women's hotel room, ***PLEASE AVOID*** this situation, the worst is a
  
 
 
-### Coding Coduct
+## Coding Coduct
 This section outlines how programming and coding in all languages should generally be followed.
 
 
@@ -164,11 +164,11 @@ DO NOT USE THIS TO GET ALUMNI TO DO YOUR WORK
 ```
 
 
-## Operation of the Team
+# Operation of the Team
 
-###  Organization Structure
+##  Organization Structure
 
-### Team Structure and Reporting Hierarchy
+## Team Structure and Reporting Hierarchy
 
 This document outlines the reporting structure within the Software Subteam. Each role has specific responsibilities and reports to different levels of the team.
 
@@ -184,7 +184,7 @@ This document outlines the reporting structure within the Software Subteam. Each
     - **Language Access:** Python, HTML, CSS, JavaScript, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
     - **Summary:** They run the Software Subteam, have lots of projects complete, ensure that the cloud runs smoothly, enforce good coding practices, give out tasks/projects to senior members and approve.
 
-        #### Future Software Lead
+        ##### Future Software Lead
         - **Reports to:** Software Lead
         - **Min Requirements:** 2 years with the club
         - **Roles:** Mentors, can be sysadmin of cloud/NAS, code reviewer, designer, task giver
@@ -198,7 +198,7 @@ This document outlines the reporting structure within the Software Subteam. Each
         - **Language Access:** Python, HTML, CSS, JavaScript, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
         - **Summary:** They have a lot of projects complete, they are here to teach, give out tasks, enforce good coding practices and design how a project should be made with their designs and feedback.
 
-            ##### Intermediate Member
+            ###### Intermediate Member
             - **Reports to:** Senior Member
             - **Min Requirements:** 1-1.9 years with the club
             - **Roles:** Mentor (possibly), Mentee (probably), code reviewer (possibly), design input (probably), designer (possibly)
@@ -237,10 +237,10 @@ This is a technique in programming where a mentor and mentee are paired up the m
 
 This is in hopes of giving the mentee exposure to the language and general programming concepts so that they may level up their skills.
 
-### Roles and Expectations
+## Roles and Expectations
 based upon the 2018 Baja Charter
 
-#### All Members
+### All Members
  - Your position on this team is a privilege, not a right.
  - All members will follow through with commitments in a timely matter or inform your Team Lead/Team Captain if you cannot. 
  - Will be present and attend meetings/workdays on time at the times specified.
@@ -253,14 +253,14 @@ based upon the 2018 Baja Charter
  - Asking questions is encouraged and is the greatest way for you to learn. Every member will be open to taking questions. If you are unable to answer a question either admit that “I don’t know”, or suggest someone who may be better qualified to answer the question. Asking questions is beneficial for both parties as it expands the asker’s knowledge base, and keeps the question recipient current with their knowledge
  - Googling the docs or Stackoverflow is a great start
 
-#### Juniors
+### Juniors
  - Are expected to work and ask questions. Enthusiasm to learn and a positive attitude is a must!
-#### Intermediates
+### Intermediates
  - In addition to Junoir Member roles and expectations:
  - Expected to carry out some of their own research and ask whatever questions they may have about their project. They may not necessarily know everything about the language/project but must make an effort to verse themselves as completely as they can.
  - Can Volunteer to teach Juniors and other members new skills and assist in the transfer of knowledge.
  - A Developmental level amount of time management to ensure adequate research and development of your design projects is a must.
-#### Seniors
+### Seniors
  - In addition to Intermediate Member roles and expectations:
  - Expected to carry out their own research and ask whatever questions they may have about their project. They may not necessarily know everything about the language/project but must make an effort to verse themselves as completely as they can.
  - Are expected to be able to take on more challenging design projects on the vehicle.
@@ -270,7 +270,7 @@ based upon the 2018 Baja Charter
  - Must check in regularly with everyone in their group to ensure they are learning and making progress on a weekly or bi-weekly basis. 
  - Reports will also be conducted by the team lead
 
-#### Team Leads
+### Team Leads
  - In addition to Senior Member roles and expectations:
  - Are responsible for all members, projects, components, and hardware within their system. If progress is not being made, it is their responsibility to work with the designer/programmer to ensure timelines are met. 
  - May assign and reassign projects as they see fit. 
@@ -282,7 +282,7 @@ based upon the 2018 Baja Charter
  - The Software lead will be in consistent contact with Senior members to ensure that a project is running smoothly.
  - Team leads will be in consistent contact with one another (primarily Electrical and Business) to ensure designs housed/shared by systems are working in tandem.
 
-#### Future Team Leads
+### Future Team Leads
  - In addition to Senior Member roles and expectations:
  - Work alongside their team lead to learn how to manage the system team 
  - Act to the best of their ability to aid and advise the system team lead concerning current and future work and tasks to be done
@@ -290,62 +290,62 @@ based upon the 2018 Baja Charter
 
 
 
-### Seasons
+## Seasons
 There are multiple phases throughout the year. As UCalgary Baja is a competition team focused on performing well all members are expected to have full involvement in each phase. The Baja year can be broken down into the following cycle (It is important to note that each phase may feather into one another):
 
 Timelines in Software are flexible this is a guide to the year not a set in stone, some project scopes may take longer than others.
 
-##### 2025 Season Edit **Mech/Electrical**
+### 2025 Season Edit **Mech/Electrical**
 This year the school has reduced the nubmer of shop tech hours and removed many alot of the shop time in favor of a class, this mean that everyone is under crunch and we only get a limited amount of time, limited number of people we can train to work in the machine and one designated cnc machine that must be used or we lose it
 
-#### Summer - Testing **Mech/Electrical**
+### Summer - Testing **Mech/Electrical**
 This is when UCalgary Baja tests the previous vehicle to influence designs for the future vehicle. Testing consists of gathering data from the previous vehicle to influence design decisions for the new vehicle. Such tests may include strain gauge impact testing, vehicle roll testing, transmission dynamometer characterization, etc.
 
-##### Summer Semster 2025 Season Edit **Mech/Electrical**
+#### Summer Semster 2025 Season Edit **Mech/Electrical**
 The new car designs start here, we need something for Fall to be made. This does not mean summer testing cant happen at the same time but rather creating something for the Fall manufacting timeslot is more important.
 
-#### Summer - Testing **Software**
+### Summer - Testing **Software**
 The software could get involved in this time, this time should primarily be used for the setup/preparation for the new season, recruitment period, and any SSAF requests and allowing for the new lead to get situated and plan the projects for the year, this time also allows the old lead to mentor as well as they can the new lead.
 This is a time where a break can be taken such as only meeting every second week.
 
-#### Fall Semster 2025 Season Edit **Whole Team**
+### Fall Semster 2025 Season Edit **Whole Team**
 A number of deliverables get done
 1. SSAF funding for the main manufacturing period (Winter Semster)
 1. Recuitment
 
 
-#### Fall Semester - Design **Mech/Electrical**
+### Fall Semester - Design **Mech/Electrical**
 The design period involves brainstorming, drafts, CAD modelling, design reviews, system collaboration, document creation, drawing submission, hardware sourcing, material sourcing and manufacture sourcing for all projects.
 
 
-##### Fall Semster 2025 Season Edit **Mech/Electrical**
+#### Fall Semster 2025 Season Edit **Mech/Electrical**
 For fall this means that as much manufacting as possible happens here, any finished designs are manufactured by the new (and forced upon) manufacting group/team, this happens at the same time as designs are being made/CADed.
 
 New members of the manufacting group are trained during this time, the number of new people is determined by the university/machine shop and then is selected based upon commitment and free time during the week (sorry we this sometimes happens to be the only times available for us to get into the shop)
 
-#### Fall Semester - Easier Projects **Software**
+### Fall Semester - Easier Projects **Software**
 This is the time when either your first or the easier projects happen, typically the projects involve higher-level languages like Python, JavaScript, HTML, CSS or high-level programming where the background level is low, it should be typically reserved for learning opportunities even if the club needs the tool.
 This is a time for learning and enforcing good programming rules.
 Recruitment also happens during this time which reduces the amount of time able to be spent on complex projects.
 
 
-#### Winter Semester - Fabrication **Mech/Electrical**
+### Winter Semester - Fabrication **Mech/Electrical**
 Time to get your hands dirty! Fabrication is when the car is built and parts are submitted to machine shops. Learn to use tools and understand the importance of designing for manufacturability. This period provides the opportunity to learn the most about the vehicle, how its projects and systems work together, and assemble a vehicle!
 
-##### Winter Semster 2025 Season Edit **Mech/Electrical**
+#### Winter Semster 2025 Season Edit **Mech/Electrical**
 Not much changes here other than the manufacting team is in full swing, anything else that is made outside of the machine shop goes on as normal.
 
-#### Winter Semester - Harder Projects **Software**
+### Winter Semester - Harder Projects **Software**
 The concepts learned from the fall semester are now built upon in more difficult tasks such as testing (boundary, inner whatever the lead decides is appropriate to accomplish)
 This time can also be spent wrapping up easier projects, possibly continuing on with projects that were originally thought to be easy but instead turned out to be difficult
 
-#### Late Winter to Early Spring - Pre-Competition Testing **Mech/Electrical**
+### Late Winter to Early Spring - Pre-Competition Testing **Mech/Electrical**
 In this phase, tests will be performed to validate the new vehicle’s designs. Examples of tests performed are torsion tests, locating center-of-gravity, impact testing, transmission dynamometer, etc.
 
-##### Late Winter to Early Spring 2025 Season Edit **Mech/Electrical**
+#### Late Winter to Early Spring 2025 Season Edit **Mech/Electrical**
 Normally this is our crunch time, please expect to spend up to 13 hours a day on Baja. This does not mean school comes second, this is just meant to inform you
 
-#### Late Winter to Early Spring **Software**
+### Late Winter to Early Spring **Software**
 No changes from the start of the Winter Semester
 The addition of the Online Cost Report is the responsibility of the lead and senior members collaborating with electrical members.
 Rules for software as of the 2025 season
@@ -355,13 +355,13 @@ If any data collection system is on the car it must be included then a software 
 
 **We do not go to comp if no SSAF travel fund is completed**
 
-#### Just Before Competition - Vehicle Tuning & Driver Training **Mech/Electrical**
- Vehicle tuning consists of testing and recording multiple setups of the drivetrain, suspension, and braking systems. This allows the team to find the best settings for each event the vehicle will come up against. Alongside tuning, drivers who prove themselves as confident, comfortable, and skilled in the driver’s seat will be chosen to drive specific events at the competition. Efforts will be taken to emulate events and train drivers accordingly.
+### Just Before Competition - Vehicle Tuning & Driver Training **Mech/Electrical**
+Vehicle tuning consists of testing and recording multiple setups of the drivetrain, suspension, and braking systems. This allows the team to find the best settings for each event the vehicle will come up against. Alongside tuning, drivers who prove themselves as confident, comfortable, and skilled in the driver’s seat will be chosen to drive specific events at the competition. Efforts will be taken to emulate events and train drivers accordingly.
 
-##### Just Before Competition 2025 Season Edit **Whole Team**
+### Just Before Competition 2025 Season Edit **Whole Team**
 A SSAF funding round happeens so that we get buy things for the Fall Semster manufacturing period
 
-#### Just Before Competition **Software**
+### Just Before Competition **Software**
 If reasonable Software transforms into the tool fetchers if work is behind
 
 Other tasks include cleaning the truck (with a shop vac) cleaning the trailer (sweeping dirt out) and removing any garbage from the truck and trailer.
@@ -372,27 +372,27 @@ Reasonable is no juniors or other members available to perform this task.
 
 The highest priority is to get the car out the door.
 
-#### May to June - Competition
+### May to June - Competition
 The moment we’ve all been waiting for! Competition is where all your blood, sweat, and tears invested in the vehicle pay off. It is the ultimate testament to what the vehicle was designed to do. The competition consists of static events (business and design presentations), dynamic events (acceleration, maneuverability, hill climb, suspension & traction, and rock crawl), and finally a 4-hour endurance race. 
 
-#### May to June - Competition **Software**
+### May to June - Competition **Software**
 We help where we can, that could be running the sim for the driver, fetching tools (hence why the previous phase), taking photos, helping businesses, helping where you can
 
 
-#### Repeat
+### Repeat
 
 Summer is the transition phase, and Fall is the start of a new season
 Prepare for the next phase as well as you can
 
 
-## How To's
+# How To's
 
 This can be found also in Baja Data Current Year/W - Software/Software Standardizations and Common Git Commands.md.
 The most up-to-date is in the current year.
 
-### Baja UofC Software Standards
+## Baja UofC Software Standards
 
-#### Git
+### Git
 
 The stupid content tracker.
 No more need for V1, V2, V2 Final or V2 Final Final edit by Malik Final
@@ -401,7 +401,7 @@ This terminal-based program is a lightweight version control, that is highly use
 This does not require a remote origin, a local repo will be fine with the use of the Baja Cloud, just upload any .git files with it.
 This will track everything in the specified git directory (files, child directories, etc.)
 
-##### Common Commands
+#### Common Commands
 
 ###### Note
 
@@ -486,7 +486,7 @@ git config user.email "email"
 <h2>Git cheat sheet</h2>
 <p>The commands discussed above–and more–are summarized in this cheat sheet available to <a href="https://wac-cdn.atlassian.com/dam/jcr:e7e22f25-bba2-4ef1-a197-53f46b6df4a5/SWTM-2088_Atlassian-Git-Cheatsheet.pdf?cdnVersion=691">download</a>.</p>
 
-##### Type
+#### Type
 
 Must be one of the following:
 
@@ -505,7 +505,7 @@ Must be one of the following:
 - **removed**: Removed files or content only
 - **merged**: Used when a branch's content is merged into another branch
 
-##### Message
+#### Message
 
 The subject contains a succinct description of the change (this will show up in the logs):
 
@@ -513,7 +513,7 @@ The subject contains a succinct description of the change (this will show up in 
 - don't capitalize the first letter
 - no dot (.) at the end
 
-##### Example Commit
+#### Example Commit
 
 ```bash
 git add -A # adds all of the files/changed files to the commit stage (pre-commit)
@@ -529,7 +529,7 @@ Another Example
 git commit -m"Feat (API)^: send an email to the customer when a product is shipped"
 ```
 
-##### How to Commit
+#### How to Commit
 
 ```
 "<type>(scope or file that has been changed): short description"
@@ -538,16 +538,16 @@ git commit -m"Feat (API)^: send an email to the customer when a product is shipp
 Replace <type> with just the type
 ^ for any breaking commits
 
-##### Why?
+#### Why?
 
 How long do you think this code will be used? 1 year? 1 decade? 4 weeks?
 You don't know so make life easier on yourself and new juniors comment on what your code does, it doesn't have to be line by line but at least explain a "block" or a related section of code to the purpose/what it does.
 
-#### Example Comments and Function Starters
+### Example Comments and Function Starters
 
 Based off JSDoc standard
 
-##### JavaScript
+#### JavaScript
 
 Uses [JSDoc](https://jsdoc.app) standard
 
@@ -595,7 +595,7 @@ function exampleFunct2(inputVar) {
 };
 ```
 
-##### Python
+#### Python
 
 ```python
 # comments normally annotate the line below, python functions/classes/methods are the only expection
@@ -623,15 +623,15 @@ def example_funct(input_var:type):
     return 0
 ```
 
-##### Rust
+#### Rust
 
 ```rust
 fn exampleFunc () {
- //I have not decided yet
+    // I have not decided yet
 }
 ```
 
-##### C++
+#### C++
 
 ```cpp
 /*
@@ -660,7 +660,7 @@ int exampleFunct (int inputVar) {
 };
 ```
 
-##### C
+#### C
 
 ```c
 /*
@@ -688,3 +688,65 @@ int exampleFunct (int inputVar) {
     return 0; 
 };
 ```
+
+#### Java/C#
+```java
+// these languages is cursed and full of boilerplate
+// use anything else if you can
+// high memory overhead, use C++ instead
+// you can add standard here just make it similar to the rest
+```
+
+#### Golang
+```golang
+// I dont know
+// you can add standard here just make it similar to the rest
+```
+
+#### Lua
+```lua
+-- I dont know
+-- you can add standard here just make it similar to the rest
+```
+
+#### Terraform
+This will probably only used for cloud applications
+```terraform
+<!-- 
+    I dont know 
+    you can add standard here just make it similar to the rest
+-->
+```
+
+#### HTML
+This is the same as any other page, not unique, should still vet in a html validator/best practices
+author goes in human.txt, for more info please see [here](https://humanstxt.org)
+
+```html
+<!doctype html>
+<html>
+    <head>
+        <title>Our Funky HTML Page</title>
+        <meta name="description" content="Our first page">
+        <meta name="keywords" content="html tutorial template">
+    </head>
+    <body>
+    Content goes here.
+    </body>
+</html>
+```
+
+#### JSON, YAML, XML, CSS
+These are more like data types/file format, follow rules of the language
+
+#### Bash
+Always starts with a shebang
+```bash
+#!
+echo "Hello World!"
+```
+
+#### Github Actions
+
+Please find example in any baja repo under .github/workflows/*.yaml
+* is a wildcard and in this case represents any name of the file
