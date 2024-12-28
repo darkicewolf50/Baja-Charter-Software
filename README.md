@@ -168,35 +168,49 @@ DO NOT USE THIS TO GET ALUMNI TO DO YOUR WORK
 
 ###  Organization Structure
 
-#### Captain of Baja
+### Team Structure and Reporting Hierarchy
+
+This document outlines the reporting structure within the Software Subteam. Each role has specific responsibilities and reports to different levels of the team.
+
+### Captain of Baja
 - Can overrule task approval
 - Can suggest projects
 
-##### Software Lead
-- Reports to: Captain of Baja
-- Chosen by: Software Subteam and approved by Captain or voluntold by Captain
-- Min Requirements: Not a Junior in the same year
-- Roles: Mentor, code reviewer, task giver, project scheduler, designer, project/design approver, sysadmin of cloud/NAS, 
-- Language Access: Python, HTML, CSS, JavaScipt, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
-- Summary: They run the Software Subteam, have lots of projects complete, ensure that the cloud runs smoothly, enforce good coding practices, give out tasks/projects to senior members and approve
-  - ##### Senior Member
-    - Reports to: Software Lead
-    - Min Requirements: 2 years with club
-    - Roles: Mentors, can be sysadmin of cloud/nas, code reviewer, designer, task giver
-    - Language Access: Python, HTML, CSS, JavaScipt, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
-    - Summary: They have a lot of projects complete, they are here to teach, give out tasks, enforce good coding practices and design how a project should be made with their designs and feedback
-      - ###### Intermediate Member
-        - Reports to: Senior Member
-        - Min Requirements: 1-1.9 years with club
-        - Roles: Mentor (possibly), Mentee (probably), code reviewer (possibly), design input (probably), designer (possibly)
-        - Language Access: Python, HTML, CSS, JavaScipt, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Bash (in the form of basic commands and git), Docker, Kubernetes
-        - Summary: They have a few project(s) completed, they are still mostly here to learn, they can give better feedback on designs than juniors (starting to understand)
-  - ###### Junior Member
-    - Reports to: Software Lead and Senior Member
-    - Min Requirements: New this year to the club
-    - Roles: Mentee (Need, dep. on year), design input
-    - Language Access: Python, HTML, CSS, JavaScipt, JSON, XML, JSON, Lua, Golang, Bash (in the form of basic commands and git)
-    - Summary: They are new and here to learn, they can give limited amounts of feedback about designs (due to a lack of knowledge)
+    #### Software Lead
+    - **Reports to:** Captain of Baja
+    - **Chosen by:** Software Subteam and approved by Captain or voluntold by Captain
+    - **Min Requirements:** Not a Junior in the same year
+    - **Roles:** Mentor, code reviewer, task giver, project scheduler, designer, project/design approver, sysadmin of cloud/NAS
+    - **Language Access:** Python, HTML, CSS, JavaScript, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
+    - **Summary:** They run the Software Subteam, have lots of projects complete, ensure that the cloud runs smoothly, enforce good coding practices, give out tasks/projects to senior members and approve.
+
+        #### Future Software Lead
+        - **Reports to:** Software Lead
+        - **Min Requirements:** 2 years with the club
+        - **Roles:** Mentors, can be sysadmin of cloud/NAS, code reviewer, designer, task giver
+        - **Language Access:** Python, HTML, CSS, JavaScript, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
+        - **Summary:** Experienced member, teaches others, enforces coding practices, and designs/feedback on projects, should run atleast one project with the support of the software lead, this is in order to get them comfortable with the role.
+
+        ##### Senior Member
+        - **Reports to:** Software Lead and Future Software Lead
+        - **Min Requirements:** 2 years with the club
+        - **Roles:** Mentors, can be sysadmin of cloud/NAS, code reviewer, designer, task giver
+        - **Language Access:** Python, HTML, CSS, JavaScript, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Terraform, Bash, Docker, Kubernetes, GitHub Actions
+        - **Summary:** They have a lot of projects complete, they are here to teach, give out tasks, enforce good coding practices and design how a project should be made with their designs and feedback.
+
+            ##### Intermediate Member
+            - **Reports to:** Senior Member
+            - **Min Requirements:** 1-1.9 years with the club
+            - **Roles:** Mentor (possibly), Mentee (probably), code reviewer (possibly), design input (probably), designer (possibly)
+            - **Language Access:** Python, HTML, CSS, JavaScript, YAML, JSON, XML, Lua, Rust, C, C++/Arduino, Java (please avoid), Golang, Bash (basic commands and git), Docker, Kubernetes
+            - **Summary:** They have a few project(s) completed, they are still mostly here to learn, they can give better feedback on designs than juniors (starting to understand)
+
+    ##### Junior Member
+    - **Reports to:** Software Lead and Senior Member
+    - **Min Requirements:** New to the club this year
+    - **Roles:** Mentee (Need, dependent on year), design input
+    - **Language Access:** Python, HTML, CSS, JavaScript, JSON, XML, JSON, Lua, Golang, Bash (basic commands and git)
+    - **Summary:** They are new and here to learn, they can give limited amounts of feedback about designs (due to a lack of knowledge)
 
 This structure aims to provide a guide to members of software.
 
